@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-bookings-and-appointments-filament",
+  "capabilityKey": "planned:ecommerce:bookings-and-appointments",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-bookings-and-appointments-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/bookings-and-appointments.md",
+  "presentationPlan": "projects/ecommerce/filament/bookings-and-appointments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
